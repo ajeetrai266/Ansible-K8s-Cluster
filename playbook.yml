@@ -1,7 +1,7 @@
-- hosts: master
+- hosts: Master
   roles: 
     - kube_master
 
-- hosts: worker
+- hosts: Worker
   roles: 
     - kube_worker

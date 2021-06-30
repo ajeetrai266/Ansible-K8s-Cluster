@@ -1,0 +1,5 @@
+- src: ajeetrai266.kube_master
+  name: kube_master
+
+- src: ajeetrai266.kube_worker
+  name: kube_worker
